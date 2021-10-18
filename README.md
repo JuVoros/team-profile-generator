@@ -8,12 +8,19 @@
 
 ## Description
 
+This project allows users to geenrate a team profile site that will display managers, interns, and engineers who are on the team. This project uses the command line operation with node.js and npm to run all the functions. This code alls users to not onlt show off who is in the team but also show their school, github, id, office number, and email so it is easier to access any and all inforamtion about teammates by simply looking at the generated html page. 
+
+## VIDEO EXAMPLE LINK
+
+https://youtu.be/RaJQKccWzFo
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [License](#license)
 3. [Questions](#questions)
     
 ## Installation
+To use this code properly node.js and npm are needed to correctly use this code.
 
 
 ## License
